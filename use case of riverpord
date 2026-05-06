@@ -1,0 +1,7 @@
+| Situation       | Use            |
+| --------------- | -------------- |
+| Static data     | Provider       |
+| Simple UI state | StateProvider  |
+| Complex logic   | StateNotifier  |
+| API call        | FutureProvider |
+| Real-time       | StreamProvider |
