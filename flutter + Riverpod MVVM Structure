@@ -1,0 +1,30 @@
+lib/
+│
+├── core/
+│
+├── features/
+│   └── auth/
+│
+│       ├── model/
+│       │     user_model.dart
+│       │
+│       ├── view/
+│       │     signup_screen.dart
+│       │     login_screen.dart
+│       │
+│       ├── view_model/
+│       │     auth_controller.dart
+│       │     auth_state.dart
+│       │
+│       ├── repository/
+│       │     auth_repository.dart
+│       │
+│       └── service/
+│             auth_api_service.dart
+
+
+ State - data store
+ 
+ Notifier - logic handle
+
+ Provider - bridge between UI + logic
