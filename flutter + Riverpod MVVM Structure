@@ -28,3 +28,7 @@ lib/
  Notifier - logic handle
 
  Provider - bridge between UI + logic
+
+Repository - proceesing data
+
+Service - raw data basically backend
